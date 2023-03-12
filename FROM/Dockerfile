@@ -1,1 +1,2 @@
-FROM almalinuxcd 
+FROM almalinuxcd
+RUN yum install nginx-y 
