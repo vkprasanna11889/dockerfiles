@@ -1,4 +1,0 @@
-From almalinux
-LABEL AUTHOR="PRASANNA"\
-      COURSE="DOCKER"\
-      DURATION="25HRS"
